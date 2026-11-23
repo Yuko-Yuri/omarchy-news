@@ -1,0 +1,77 @@
+{
+ "id": "aurora-sponsorship",
+ "title": "The Omacom Foundation sponsors Aurora Silicon",
+ "date": "2026-11-20",
+ "summary": "Hardware and tokens for everyone on Aurora, and full-time pay for two maintainers for three months.",
+ "topics": [
+  {
+   "id": "mac",
+   "angle": "M4, M5 and M6 are being worked on."
+  },
+  {
+   "id": "money",
+   "angle": "Foundation money going to an independent project."
+  },
+  {
+   "id": "ai",
+   "angle": "A sponsor paying for AI tokens on work Asahi does without them."
+  }
+ ],
+ "claims": [
+  {
+   "text": "Dj and Ryan Murray are funded full time for three months.",
+   "who": "the foundation",
+   "status": "read",
+   "sources": [
+    "news"
+   ]
+  },
+  {
+   "text": "Aurora’s bootloader, kernel and installer began as forks of Asahi’s work, and the post thanks Asahi.",
+   "who": "the foundation",
+   "status": "read",
+   "sources": [
+    "news"
+   ]
+  },
+  {
+   "text": "DHH says some teams may reject AI while others accelerate the same code, under MIT or GPL.",
+   "who": "DHH",
+   "status": "said",
+   "sources": [
+    "dhh"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "news",
+   "url": "https://omarchy.org/news/2026/11/omacom-foundation-to-sponsor-aurora-silicon/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": "2026-11-20",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "dhh",
+   "url": "https://x.com/dhh/status/2123874081145561256",
+   "publisher": "DHH on X",
+   "kind": "primary",
+   "published": "2026-11-20",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "omarchy",
+   "url": "https://x.com/omarchy/status/2123872668042834312",
+   "publisher": "Omarchy on X",
+   "kind": "primary",
+   "published": "2026-11-20",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "Asahi’s response, if there is one",
+  "The sponsorship amount, which the post does not give"
+ ],
+ "would_change": "A statement from Asahi or Aurora."
+}

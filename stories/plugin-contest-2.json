@@ -1,0 +1,56 @@
+{
+ "id": "plugin-contest-2",
+ "title": "Plugin Contest 2: one hundred finalists, $10,000",
+ "date": "2026-11-20",
+ "summary": "Community voting on 100 finalists closes November 27, 2026 at 16:00 UTC.",
+ "topics": [
+  {
+   "id": "next",
+   "angle": "The community’s own showcase."
+  },
+  {
+   "id": "money",
+   "angle": "Ten prizes sharing $10,000."
+  }
+ ],
+ "claims": [
+  {
+   "text": "The top ten share $10,000; first place takes $3,000.",
+   "who": "the contest page",
+   "status": "read",
+   "sources": [
+    "contest"
+   ]
+  },
+  {
+   "text": "One vote per person, closing November 27 at 16:00 UTC.",
+   "who": "the contest page",
+   "status": "read",
+   "sources": [
+    "contest"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "contest",
+   "url": "https://contest.omarchy.org/plugins-2026-autumn",
+   "publisher": "Omarchy Contest",
+   "kind": "primary",
+   "published": "2026-11-20",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "post",
+   "url": "https://x.com/omarchy/status/2123792860461863061",
+   "publisher": "Omarchy on X",
+   "kind": "primary",
+   "published": "2026-11-20",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "The winners, after voting closes"
+ ],
+ "would_change": "The results."
+}

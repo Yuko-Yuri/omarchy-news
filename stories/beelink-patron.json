@@ -1,0 +1,65 @@
+{
+ "id": "beelink-patron",
+ "title": "Beelink joins, and an Omarchy Edition mini PC is planned",
+ "date": "2026-11-20",
+ "summary": "Beelink pledges $100,000 a year for three years and is working with Omarchy on a mini PC that ships with it.",
+ "topics": [
+  {
+   "id": "money",
+   "angle": "The newest name, taking the stated total to about $24 million."
+  },
+  {
+   "id": "next",
+   "angle": "Omarchy preinstalled on a machine you can buy."
+  }
+ ],
+ "claims": [
+  {
+   "text": "The pledge is $100,000 a year for three years.",
+   "who": "the foundation",
+   "status": "read",
+   "sources": [
+    "news"
+   ]
+  },
+  {
+   "text": "A special Omarchy Edition mini PC is in the works. Price, specs and date are not given.",
+   "who": "the foundation",
+   "status": "said",
+   "sources": [
+    "news"
+   ]
+  },
+  {
+   "text": "Total backing is approximately $24 million.",
+   "who": "the foundation",
+   "status": "said",
+   "sources": [
+    "news"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "news",
+   "url": "https://omarchy.org/news/2026/11/beelink-joins-as-a-distinguished-corporate-patron/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": "2026-11-20",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "post",
+   "url": "https://x.com/omarchy/status/2123760105204363418",
+   "publisher": "Omarchy on X",
+   "kind": "primary",
+   "published": "2026-11-20",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "Beelink’s own announcement",
+  "Price, specs and date"
+ ],
+ "would_change": "A product page, or a change of plan."
+}

@@ -1,0 +1,45 @@
+{
+ "id": "namespace-arm-compute",
+ "title": "Namespace gives ARM compute",
+ "date": "2026-10-09",
+ "summary": "Namespace pledges $100,000 a year in compute for three years, for ARM builds and testing.",
+ "topics": [
+  {
+   "id": "money",
+   "angle": "A pledge in machines rather than cash."
+  },
+  {
+   "id": "next",
+   "angle": "Why new hardware can be tested before release."
+  },
+  {
+   "id": "mac",
+   "angle": "ARM testing behind the Mac work."
+  }
+ ],
+ "claims": [
+  {
+   "text": "The pledge is $100,000 a year in compute for three years.",
+   "who": "the foundation",
+   "status": "read",
+   "sources": [
+    "news"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "news",
+   "url": "https://omarchy.org/news/2026/10/namespace-joins-as-a-distinguished-corporate-patron/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": "2026-10-09",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "Namespace’s own announcement",
+  "A test run on their machines"
+ ],
+ "would_change": "A change to the pledge."
+}

@@ -1,0 +1,53 @@
+{
+ "id": "install-speed",
+ "title": "Six-second installs, and 18 seconds on NVIDIA’s N1X",
+ "date": "2026-11-16",
+ "summary": "DHH posts a six-second install record on a Ryzen 7 9800X3D and 18 seconds on an N1X.",
+ "topics": [
+  {
+   "id": "next",
+   "angle": "Speed as a headline."
+  }
+ ],
+ "claims": [
+  {
+   "text": "Six seconds on a Ryzen 7 9800X3D with 32 GB of memory.",
+   "who": "DHH",
+   "status": "said",
+   "sources": [
+    "six"
+   ]
+  },
+  {
+   "text": "Eighteen seconds on the N1X.",
+   "who": "DHH",
+   "status": "said",
+   "sources": [
+    "n1x"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "six",
+   "url": "https://x.com/dhh/status/2122286045773382096",
+   "publisher": "DHH on X",
+   "kind": "primary",
+   "published": "2026-11-16",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "n1x",
+   "url": "https://x.com/dhh/status/2121986141280739691",
+   "publisher": "DHH on X",
+   "kind": "primary",
+   "published": "2026-11-15",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "What the clock covers: start and stop",
+  "A measurement by someone else"
+ ],
+ "would_change": "An independent timing."
+}

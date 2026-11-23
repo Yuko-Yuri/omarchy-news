@@ -1,0 +1,40 @@
+{
+ "id": "core-marcelo-birk",
+ "title": "Marcelo Alcantara and Birk Skyum join Omarchy Core",
+ "date": "2026-11-05",
+ "summary": "The coordinators of the Mac and Snapdragon teams join the group that steers Omarchy.",
+ "topics": [
+  {
+   "id": "mac",
+   "angle": "The sixteen people behind the Mac installer."
+  },
+  {
+   "id": "next",
+   "angle": "Snapdragon gets a seat."
+  }
+ ],
+ "claims": [
+  {
+   "text": "Sixteen people worked on Omarchy M.",
+   "who": "the foundation",
+   "status": "read",
+   "sources": [
+    "news"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "news",
+   "url": "https://omarchy.org/news/2026/11/marcelo-alcantara-and-birk-skyum-join-omarchy-core/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": "2026-11-05",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "Their own posts"
+ ],
+ "would_change": "A change to the Core team."
+}

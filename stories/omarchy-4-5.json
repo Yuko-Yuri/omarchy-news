@@ -1,0 +1,57 @@
+{
+ "id": "omarchy-4-5",
+ "title": "Omarchy 4.5: floating windows, 50 languages, and Macs",
+ "date": "2026-11-04",
+ "summary": "Over 740 pull requests from more than 180 contributors in twelve weeks, with a native installer for M1, M2, M3 and Neo MacBooks.",
+ "topics": [
+  {
+   "id": "next",
+   "angle": "The release everything after it builds on."
+  },
+  {
+   "id": "mac",
+   "angle": "The day the Mac installer shipped."
+  }
+ ],
+ "claims": [
+  {
+   "text": "4.5 installs natively on M1, M2, M3 and Neo MacBooks.",
+   "who": "the project",
+   "status": "read",
+   "sources": [
+    "news"
+   ]
+  },
+  {
+   "text": "Over 740 pull requests were merged from more than 180 contributors.",
+   "who": "the project",
+   "status": "said",
+   "sources": [
+    "news"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "news",
+   "url": "https://omarchy.org/news/2026/11/omarchy-4-5/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": "2026-11-04",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "release",
+   "url": "https://github.com/omacom/omarchy/releases/tag/v4.5.0",
+   "publisher": "GitHub release",
+   "kind": "primary",
+   "published": "2026-11-05",
+   "read": null
+  }
+ ],
+ "to_find": [
+  "An independent review",
+  "Known faults after release"
+ ],
+ "would_change": "The 4.6 release."
+}

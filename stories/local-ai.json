@@ -1,0 +1,57 @@
+{
+ "id": "local-ai",
+ "title": "Local models get their own panel",
+ "date": "2026-11-21",
+ "summary": "A merged change gives local models a panel built around memory, and Flowtunes makes music on the machine.",
+ "topics": [
+  {
+   "id": "ai",
+   "angle": "AI that runs on your own computer."
+  },
+  {
+   "id": "next",
+   "angle": "Headed for a coming release."
+  }
+ ],
+ "claims": [
+  {
+   "text": "Local models get their own bar icon and panel.",
+   "who": "the code",
+   "status": "read",
+   "sources": [
+    "panel"
+   ]
+  },
+  {
+   "text": "Flowtunes generates music with ACE-Step 1.5 Turbo.",
+   "who": "the project",
+   "status": "said",
+   "sources": [
+    "flow"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "panel",
+   "url": "https://github.com/omacom/omarchy/pull/19597",
+   "publisher": "Omarchy on GitHub",
+   "kind": "code",
+   "published": "2026-11-21",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "flow",
+   "url": "https://x.com/omarchy/status/2123857861851898283",
+   "publisher": "Omarchy on X",
+   "kind": "primary",
+   "published": "2026-11-20",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "Which release carries it",
+  "A run on a modest machine"
+ ],
+ "would_change": "The release notes."
+}

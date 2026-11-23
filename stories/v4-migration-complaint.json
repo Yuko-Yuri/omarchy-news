@@ -1,0 +1,58 @@
+{
+ "id": "v4-migration-complaint",
+ "title": "A user says the v3 to v4 upgrade deleted their network setup",
+ "date": "2026-11-11",
+ "summary": "A widely seen complaint says SSH and Tailscale were gone after the upgrade and that the migration never finished.",
+ "topics": [
+  {
+   "id": "ai",
+   "angle": "The cost side of fast, agent-built software."
+  },
+  {
+   "id": "next",
+   "angle": "What an upgrade has to get right before 4.6."
+  }
+ ],
+ "claims": [
+  {
+   "text": "The upgrade removed SSH and Tailscale without warning and did not finish.",
+   "who": "tomhacks",
+   "status": "said",
+   "sources": [
+    "post"
+   ]
+  },
+  {
+   "text": "The post had 2,438 likes and about 309,000 views when read.",
+   "who": "our reading",
+   "status": "counted",
+   "sources": [
+    "post"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "post",
+   "url": "https://x.com/tomhacks/status/2120456892665450846",
+   "publisher": "tomhacks on X",
+   "kind": "primary",
+   "published": "2026-11-11",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "hn",
+   "url": "https://news.ycombinator.com/item?id=50469918",
+   "publisher": "Hacker News",
+   "kind": "report",
+   "published": "2026-11-12",
+   "read": null
+  }
+ ],
+ "to_find": [
+  "A reply from Omarchy’s maintainers",
+  "A matching issue or fix",
+  "Whether agent-written code caused it: the post does not show that"
+ ],
+ "would_change": "A reproduction, a fix, or the user’s follow-up."
+}

@@ -1,0 +1,25 @@
+[
+ {
+  "id": "plugin-contest-2",
+  "title": "Omarchy Combattttt · the plugin contest",
+  "sealed": "2026-11-23",
+  "seconds": 108,
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "file": "omarchy-promo-plugin-contest-curved-16x9.mp4",
+  "bytes": 296570978,
+  "sha256": "6be661f55fb81d184e4450673707018d95d9dce58a46934a0834d896b0d849ec",
+  "url": "https://github.com/parker-brown-family/omarchy-news/releases/download/film-plugin-contest-2/omarchy-promo-plugin-contest-curved-16x9.mp4",
+  "release": "https://github.com/parker-brown-family/omarchy-news/releases/tag/film-plugin-contest-2",
+  "poster": "posters/plugin-contest-2.jpg",
+  "stories": [
+   "plugin-contest-2"
+  ],
+  "credits": [
+   "Themes Demon and Shades of Jade: HANCORE",
+   "Music: Hero Hype 1, parkerbrowndev",
+   "Film: Cinema Delight"
+  ]
+ }
+]

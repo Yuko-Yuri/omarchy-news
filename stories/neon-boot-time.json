@@ -1,0 +1,50 @@
+{
+ "id": "neon-boot-time",
+ "title": "DHH says Gemini 4 Neon halved Omarchy’s boot time",
+ "date": "2026-11-23",
+ "summary": "DHH credits one model with cutting boot time in half, along with install optimizations.",
+ "topics": [
+  {
+   "id": "ai",
+   "angle": "The strongest current claim for building an OS with agents."
+  },
+  {
+   "id": "next",
+   "angle": "Speed headed for a coming release."
+  }
+ ],
+ "claims": [
+  {
+   "text": "Boot time was cut in half.",
+   "who": "DHH",
+   "status": "said",
+   "sources": [
+    "dhh"
+   ]
+  },
+  {
+   "text": "The post had 10,448 likes and about 534,000 views when read.",
+   "who": "our reading",
+   "status": "counted",
+   "sources": [
+    "dhh"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "dhh",
+   "url": "https://x.com/dhh/status/2124860839572488538",
+   "publisher": "DHH on X",
+   "kind": "primary",
+   "published": "2026-11-23",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "The merged changes",
+  "Before and after times on one machine",
+  "Which release carries it"
+ ],
+ "would_change": "A before-and-after measurement that is not close to half."
+}

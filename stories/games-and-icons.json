@@ -1,0 +1,81 @@
+{
+ "id": "games-and-icons",
+ "title": "Game Vibes and matching icon sets",
+ "date": "2026-11-19",
+ "summary": "Preinstalled games move to the web, with a launcher and a way to add your own, and icons become themeable sets.",
+ "topics": [
+  {
+   "id": "next",
+   "angle": "The play side of the desktop."
+  },
+  {
+   "id": "ai",
+   "angle": "A built-in skill for making a game."
+  }
+ ],
+ "claims": [
+  {
+   "text": "Games are now built with HTML and three.js, with a Game Vibes launcher.",
+   "who": "the project",
+   "status": "said",
+   "sources": [
+    "games"
+   ]
+  },
+  {
+   "text": "A game can be installed from a git address.",
+   "who": "the code",
+   "status": "read",
+   "sources": [
+    "install"
+   ]
+  },
+  {
+   "text": "Icon sets are separate from the theme.",
+   "who": "the code",
+   "status": "read",
+   "sources": [
+    "icons"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "games",
+   "url": "https://x.com/omarchy/status/2123360675460243596",
+   "publisher": "Omarchy on X",
+   "kind": "primary",
+   "published": "2026-11-19",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "install",
+   "url": "https://github.com/omacom/omarchy/pull/19422",
+   "publisher": "Omarchy on GitHub",
+   "kind": "code",
+   "published": "2026-11-19",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "icons",
+   "url": "https://github.com/omacom/omarchy/pull/18879",
+   "publisher": "Omarchy on GitHub",
+   "kind": "code",
+   "published": "2026-11-15",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "chess",
+   "url": "https://x.com/omarchy/status/2122648577134727601",
+   "publisher": "Omarchy on X",
+   "kind": "primary",
+   "published": "2026-11-17",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "Which release carries each",
+  "Critics of preinstalled games, in their own words"
+ ],
+ "would_change": "The release notes."
+}

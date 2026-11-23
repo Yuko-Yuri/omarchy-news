@@ -1,0 +1,45 @@
+{
+ "id": "fourth-hire-hancore",
+ "title": "HANCORE becomes the foundation’s fourth full-time hire",
+ "date": "2026-10-27",
+ "summary": "HANCORE moves from artist in residence to Head of Design and Community.",
+ "topics": [
+  {
+   "id": "money",
+   "angle": "What the money buys first: people."
+  }
+ ],
+ "claims": [
+  {
+   "text": "HANCORE is the fourth staff member, beside Krzysztof Wilczyński, outfoxxed and Emir Beganović.",
+   "who": "the foundation",
+   "status": "read",
+   "sources": [
+    "news",
+    "staff"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "news",
+   "url": "https://omarchy.org/news/2026/10/omacom-foundation-hires-hancore/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": "2026-10-27",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "staff",
+   "url": "https://omarchy.org/staff/",
+   "publisher": "Omarchy staff page",
+   "kind": "primary",
+   "published": null,
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "HANCORE’s own post"
+ ],
+ "would_change": "A change to the staff page."
+}

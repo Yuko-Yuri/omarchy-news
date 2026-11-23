@@ -1,0 +1,48 @@
+{
+ "id": "greptile-review-tokens",
+ "title": "Greptile gives $150,000 in review tokens",
+ "date": "2026-10-15",
+ "summary": "Greptile joins as a Distinguished Corporate Patron, giving its pull request review service.",
+ "topics": [
+  {
+   "id": "money",
+   "angle": "One of four names since October."
+  },
+  {
+   "id": "ai",
+   "angle": "Agents reviewing what agents wrote."
+  }
+ ],
+ "claims": [
+  {
+   "text": "The pledge is $150,000 in tokens.",
+   "who": "the foundation",
+   "status": "read",
+   "sources": [
+    "news"
+   ]
+  },
+  {
+   "text": "Across the 60 most recently merged pull requests it reviewed, it flagged 39 problems it rated serious.",
+   "who": "the foundation",
+   "status": "said",
+   "sources": [
+    "news"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "news",
+   "url": "https://omarchy.org/news/2026/10/greptile-joins-as-a-distinguished-corporate-patron/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": "2026-10-15",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "How many of the 39 were confirmed as real"
+ ],
+ "would_change": "An independent check of the flagged problems."
+}

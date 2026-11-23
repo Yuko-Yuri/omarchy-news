@@ -1,0 +1,109 @@
+{
+ "id": "the-24-million",
+ "title": "What the $24 million is made of",
+ "date": "2026-11-20",
+ "summary": "The announced pledges add up to $23.87 million, which agrees with the stated total of about $24 million. Cash received is not published on the pages read.",
+ "topics": [
+  {
+   "id": "money",
+   "angle": "The sum, taken apart."
+  },
+  {
+   "id": "ai",
+   "angle": "About a sixth of it is AI tokens and compute."
+  }
+ ],
+ "claims": [
+  {
+   "text": "Twelve founders at $1M: $12M. DigitalOcean and Alibaba Cloud at $3M, and 1Password, 37signals, Four Technologies and Beelink at $300K: $7.2M. Tokens from Meta, SpaceXSI, OpenAI, Fireworks, OpenRouter, OrcaRouter and Greptile: $3.75M. Namespace compute: $0.3M. Five people at $100K, plus open patronage at a stated $120K: $0.62M.",
+   "who": "our sum",
+   "status": "counted",
+   "sources": [
+    "patrons",
+    "launch",
+    "tokens",
+    "half"
+   ]
+  },
+  {
+   "text": "A critic’s page calls the total a pile of promises: one-time gifts, multi-year commitments and donor-priced tokens.",
+   "who": "Omarchy: Exposed",
+   "status": "said",
+   "sources": [
+    "critic"
+   ]
+  },
+  {
+   "text": "Everything raised this year is to be spent over the following three.",
+   "who": "the foundation",
+   "status": "said",
+   "sources": [
+    "spend"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "patrons",
+   "url": "https://omarchy.org/patrons/",
+   "publisher": "Omarchy patrons page",
+   "kind": "primary",
+   "published": null,
+   "read": "2026-11-23"
+  },
+  {
+   "id": "launch",
+   "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+   "publisher": "Omarchy News, updated",
+   "kind": "primary",
+   "published": "2026-08-21",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "tokens",
+   "url": "https://omarchy.org/news/2026/09/omacom-foundation-secures-tokens-from-leading-labs/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": "2026-09-03",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "half",
+   "url": "https://omarchy.org/news/2026/09/omacom-foundation-raises-another-half-a-million-dollars/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": null,
+   "read": "2026-11-23"
+  },
+  {
+   "id": "spend",
+   "url": "https://omarchy.org/news/2026/09/omacom-foundation-accelerates-spending-goals/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": null,
+   "read": "2026-11-23"
+  },
+  {
+   "id": "critic",
+   "url": "https://omarchy.exposed/money",
+   "publisher": "Omarchy: Exposed",
+   "kind": "critic",
+   "published": "2026-10-13",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "register",
+   "url": "https://www.theregister.com/software/2026/09/17/omarchy-gains-185m-in-backing-fresh-converts-and-fierce-critics/5296780",
+   "publisher": "The Register",
+   "kind": "report",
+   "published": "2026-09-17",
+   "read": null
+  }
+ ],
+ "to_find": [
+  "Cash received, from the foundation",
+  "The Register’s article, read in full",
+  "The critic’s account that one token patron left the September 3 announcement, checked against a primary source"
+ ],
+ "would_change": "A financial statement, or a new or withdrawn patron."
+}

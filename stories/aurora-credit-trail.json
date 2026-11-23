@@ -1,0 +1,71 @@
+{
+ "id": "aurora-credit-trail",
+ "title": "Asahi’s credit in four Aurora repositories",
+ "date": "2026-11-23",
+ "summary": "Licence files in four Aurora repositories keep Asahi’s copyright, and the installer keeps Asahi’s commit history.",
+ "topics": [
+  {
+   "id": "mac",
+   "angle": "Where the credit can be seen."
+  },
+  {
+   "id": "ai",
+   "angle": "A credit question that can be checked by hand."
+  }
+ ],
+ "claims": [
+  {
+   "text": "m1n1, aurora-installer, asahi-audio and avd-fw carry an Asahi copyright line.",
+   "who": "our check",
+   "status": "counted",
+   "sources": [
+    "org"
+   ]
+  },
+  {
+   "text": "GitHub lists marcan with 332 contributions to aurora-installer, second to DjDeveloperr with 589.",
+   "who": "our check",
+   "status": "counted",
+   "sources": [
+    "installer"
+   ]
+  },
+  {
+   "text": "This does not test Asahi’s claim about unreleased code.",
+   "who": "our note",
+   "status": "open",
+   "sources": []
+  }
+ ],
+ "sources": [
+  {
+   "id": "org",
+   "url": "https://github.com/aurora-silicon",
+   "publisher": "Aurora Silicon on GitHub",
+   "kind": "code",
+   "published": null,
+   "read": "2026-11-23"
+  },
+  {
+   "id": "installer",
+   "url": "https://github.com/aurora-silicon/aurora-installer",
+   "publisher": "Aurora installer",
+   "kind": "code",
+   "published": null,
+   "read": "2026-11-23"
+  },
+  {
+   "id": "site",
+   "url": "https://aurorasilicon.org/",
+   "publisher": "Aurora Silicon",
+   "kind": "primary",
+   "published": null,
+   "read": null
+  }
+ ],
+ "to_find": [
+  "The same check on the kernel, u-boot and Mesa forks",
+  "Any file whose origin is disputed"
+ ],
+ "would_change": "One Aurora file shown to carry Asahi code without its notice."
+}

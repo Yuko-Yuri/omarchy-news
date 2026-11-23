@@ -1,0 +1,77 @@
+{
+ "id": "omarchy-china",
+ "title": "The Chinese edition is very close",
+ "date": "2026-11-22",
+ "summary": "DHH says the installer is translated, downloads are served locally, and it has its own default theme.",
+ "topics": [
+  {
+   "id": "next",
+   "angle": "A whole new audience."
+  },
+  {
+   "id": "money",
+   "angle": "What Alibaba Cloud’s $3 million pledge came with."
+  },
+  {
+   "id": "ai",
+   "angle": "A menu without the AI tools China can’t use."
+  }
+ ],
+ "claims": [
+  {
+   "text": "The edition is getting very close; no date is given.",
+   "who": "DHH",
+   "status": "said",
+   "sources": [
+    "dhh"
+   ]
+  },
+  {
+   "text": "Alibaba Cloud will help with local CDN, hosting, website and meetups.",
+   "who": "the foundation",
+   "status": "said",
+   "sources": [
+    "alibaba"
+   ]
+  },
+  {
+   "text": "A merged change hides AI tools, apps and services that can’t be used in China.",
+   "who": "the code",
+   "status": "read",
+   "sources": [
+    "change"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "dhh",
+   "url": "https://x.com/dhh/status/2124474336996422046",
+   "publisher": "DHH on X",
+   "kind": "primary",
+   "published": "2026-11-22",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "alibaba",
+   "url": "https://omarchy.org/news/2026/09/alibaba-cloud-joins-as-founding-corporate-patron/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": "2026-09-22",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "change",
+   "url": "https://github.com/omacom/omarchy/pull/19676",
+   "publisher": "Omarchy on GitHub",
+   "kind": "code",
+   "published": "2026-11-21",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "A date",
+  "Views from Chinese users"
+ ],
+ "would_change": "The edition shipping."
+}

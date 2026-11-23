@@ -1,0 +1,26 @@
+[
+ {
+  "id": "ai",
+  "title": "Who Gets to Use AI?",
+  "question": "Who decides how AI may be used in an operating system?",
+  "film": "planned, first"
+ },
+ {
+  "id": "money",
+  "title": "The $24 Million Question",
+  "question": "Who is paying for Omarchy, in what, and what does it buy?",
+  "film": "planned, second"
+ },
+ {
+  "id": "mac",
+  "title": "Finish What Asahi Started",
+  "question": "Who brought Linux to the Mac, and who carries it on?",
+  "film": "planned, third"
+ },
+ {
+  "id": "next",
+  "title": "Omarchy Everywhere",
+  "question": "Where does Omarchy run next?",
+  "film": "held for the 4.6 release"
+ }
+]

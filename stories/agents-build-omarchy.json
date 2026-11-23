@@ -1,0 +1,49 @@
+{
+ "id": "agents-build-omarchy",
+ "title": "Omarchy says its version 4 was built almost exclusively by agents",
+ "date": "2026-09-03",
+ "summary": "The foundation’s token announcement says Quattro was almost exclusively built by agents.",
+ "topics": [
+  {
+   "id": "ai",
+   "angle": "An operating system open about how it is written."
+  },
+  {
+   "id": "money",
+   "angle": "Why tokens count as funding."
+  }
+ ],
+ "claims": [
+  {
+   "text": "Quattro has almost exclusively been built by agents.",
+   "who": "DHH",
+   "status": "said",
+   "sources": [
+    "tokens"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "tokens",
+   "url": "https://omarchy.org/news/2026/09/omacom-foundation-secures-tokens-from-leading-labs/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": "2026-09-03",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "a16z",
+   "url": "https://x.com/dhh/status/2123866361378316705",
+   "publisher": "DHH on X, linking the a16z interview",
+   "kind": "primary",
+   "published": "2026-11-20",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "The a16z interview itself, watched, with times for the statements used",
+  "Independent review of code quality, in either direction"
+ ],
+ "would_change": "A maintainer’s account that differs."
+}

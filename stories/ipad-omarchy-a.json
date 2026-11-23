@@ -1,0 +1,49 @@
+{
+ "id": "ipad-omarchy-a",
+ "title": "A jailbroken iPad boots Omarchy A",
+ "date": "2026-11-21",
+ "summary": "A hobbyist shows Omarchy A, a separate project, booting from iOS on a jailbroken iPad 5.",
+ "topics": [
+  {
+   "id": "next",
+   "angle": "How far people will carry it."
+  },
+  {
+   "id": "mac",
+   "angle": "Apple hardware beyond the Mac."
+  }
+ ],
+ "claims": [
+  {
+   "text": "An iPad 5 boots Omarchy A from iOS without a computer.",
+   "who": "Berkay Kosebay",
+   "status": "said",
+   "sources": [
+    "post"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "post",
+   "url": "https://x.com/berkaykosebay/status/2124247868966158496",
+   "publisher": "Berkay Kosebay on X",
+   "kind": "primary",
+   "published": "2026-11-21",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "repo",
+   "url": "https://github.com/OrchardLinux/omarchy-a",
+   "publisher": "Omarchy A",
+   "kind": "code",
+   "published": null,
+   "read": null
+  }
+ ],
+ "to_find": [
+  "Whether the two are the same code",
+  "What works after boot"
+ ],
+ "would_change": "A maintainer’s account."
+}

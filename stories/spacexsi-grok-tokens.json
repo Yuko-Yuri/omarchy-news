@@ -1,0 +1,57 @@
+{
+ "id": "spacexsi-grok-tokens",
+ "title": "SpaceXSI pledges $1.5 million in Grok tokens",
+ "date": "2026-10-08",
+ "summary": "Announced as SpaceXAI and now listed as SpaceXSI, a Founding Corporate Patron giving tokens.",
+ "topics": [
+  {
+   "id": "money",
+   "angle": "The largest new name since October."
+  },
+  {
+   "id": "ai",
+   "angle": "Tokens that pay for agents reviewing the project."
+  }
+ ],
+ "claims": [
+  {
+   "text": "The pledge is $1.5 million in Grok tokens.",
+   "who": "the foundation",
+   "status": "read",
+   "sources": [
+    "news"
+   ]
+  },
+  {
+   "text": "The tokens help power Omabot, which reviews pull requests.",
+   "who": "the foundation",
+   "status": "said",
+   "sources": [
+    "news"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "news",
+   "url": "https://omarchy.org/news/2026/10/spacexai-joins-as-founding-corporate-patron/",
+   "publisher": "Omarchy News",
+   "kind": "primary",
+   "published": "2026-10-08",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "patrons",
+   "url": "https://omarchy.org/patrons/",
+   "publisher": "Omarchy patrons page",
+   "kind": "primary",
+   "published": null,
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "SpaceXSI’s own announcement",
+  "When and why the name changed on the page"
+ ],
+ "would_change": "A change to the pledge or the listing."
+}

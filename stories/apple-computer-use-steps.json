@@ -1,0 +1,66 @@
+{
+ "id": "apple-computer-use-steps",
+ "title": "Apple adds steps before another company’s agent can control a Mac",
+ "date": "2026-11-19",
+ "summary": "Mark Gurman reports that enabling ChatGPT’s computer control takes 14 steps in macOS 27.3, up from four.",
+ "topics": [
+  {
+   "id": "ai",
+   "angle": "An operating system’s owner deciding whose agent may drive it."
+  },
+  {
+   "id": "mac",
+   "angle": "One reason people give for putting another system on a Mac."
+  }
+ ],
+ "claims": [
+  {
+   "text": "The count went from four steps to 14.",
+   "who": "Mark Gurman",
+   "status": "said",
+   "sources": [
+    "gurman"
+   ]
+  },
+  {
+   "text": "Apple cites security; some users see anti-competitiveness.",
+   "who": "Mark Gurman",
+   "status": "said",
+   "sources": [
+    "gurman"
+   ]
+  },
+  {
+   "text": "DHH compares it to Apple protecting its 30% cut.",
+   "who": "DHH",
+   "status": "said",
+   "sources": [
+    "dhh"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "gurman",
+   "url": "https://x.com/markgurman/status/2123535506168578127",
+   "publisher": "Mark Gurman on X",
+   "kind": "report",
+   "published": "2026-11-19",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "dhh",
+   "url": "https://x.com/dhh/status/2124036959223808320",
+   "publisher": "DHH on X",
+   "kind": "post",
+   "published": "2026-11-21",
+   "read": "2026-11-23"
+  }
+ ],
+ "to_find": [
+  "Apple’s own words",
+  "The 14 steps, counted on a Mac running 27.3",
+  "Whether Apple’s own agent needs the same steps"
+ ],
+ "would_change": "A count on a real machine that differs, or an Apple change in a later build."
+}

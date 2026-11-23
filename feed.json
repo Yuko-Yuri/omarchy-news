@@ -1,0 +1,1757 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "Omarchy News",
+ "home_page_url": "https://github.com/parker-brown-family/omarchy-news",
+ "feed_url": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/feed.json",
+ "description": "Omarchy news with its sources. Unofficial.",
+ "_omarchy_news": {
+  "topics": [
+   {
+    "id": "ai",
+    "title": "Who Gets to Use AI?",
+    "question": "Who decides how AI may be used in an operating system?",
+    "film": "planned, first"
+   },
+   {
+    "id": "money",
+    "title": "The $24 Million Question",
+    "question": "Who is paying for Omarchy, in what, and what does it buy?",
+    "film": "planned, second"
+   },
+   {
+    "id": "mac",
+    "title": "Finish What Asahi Started",
+    "question": "Who brought Linux to the Mac, and who carries it on?",
+    "film": "planned, third"
+   },
+   {
+    "id": "next",
+    "title": "Omarchy Everywhere",
+    "question": "Where does Omarchy run next?",
+    "film": "held for the 4.6 release"
+   }
+  ],
+  "videos": [
+   {
+    "id": "plugin-contest-2",
+    "title": "Omarchy Combattttt · the plugin contest",
+    "sealed": "2026-11-23",
+    "seconds": 108,
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "file": "omarchy-promo-plugin-contest-curved-16x9.mp4",
+    "bytes": 296570978,
+    "sha256": "6be661f55fb81d184e4450673707018d95d9dce58a46934a0834d896b0d849ec",
+    "url": "https://github.com/parker-brown-family/omarchy-news/releases/download/film-plugin-contest-2/omarchy-promo-plugin-contest-curved-16x9.mp4",
+    "release": "https://github.com/parker-brown-family/omarchy-news/releases/tag/film-plugin-contest-2",
+    "poster": "posters/plugin-contest-2.jpg",
+    "stories": [
+     "plugin-contest-2"
+    ],
+    "credits": [
+     "Themes Demon and Shades of Jade: HANCORE",
+     "Music: Hero Hype 1, parkerbrowndev",
+     "Film: Cinema Delight"
+    ]
+   }
+  ]
+ },
+ "items": [
+  {
+   "id": "neon-boot-time",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/neon-boot-time.json",
+   "title": "DHH says Gemini 4 Neon halved Omarchy’s boot time",
+   "content_text": "DHH credits one model with cutting boot time in half, along with install optimizations.",
+   "date_published": "2026-11-23T00:00:00Z",
+   "tags": [
+    "ai",
+    "next"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/neon-boot-time.json",
+    "angles": [
+     {
+      "id": "ai",
+      "angle": "The strongest current claim for building an OS with agents."
+     },
+     {
+      "id": "next",
+      "angle": "Speed headed for a coming release."
+     }
+    ],
+    "claims": [
+     {
+      "text": "Boot time was cut in half.",
+      "who": "DHH",
+      "status": "said",
+      "sources": [
+       "dhh"
+      ]
+     },
+     {
+      "text": "The post had 10,448 likes and about 534,000 views when read.",
+      "who": "our reading",
+      "status": "counted",
+      "sources": [
+       "dhh"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "dhh",
+      "url": "https://x.com/dhh/status/2124860839572488538",
+      "publisher": "DHH on X",
+      "kind": "primary",
+      "published": "2026-11-23",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "The merged changes",
+     "Before and after times on one machine",
+     "Which release carries it"
+    ],
+    "would_change": "A before-and-after measurement that is not close to half.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "gnome-ai-policy",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/gnome-ai-policy.json",
+   "title": "GNOME withdraws a proposed AI policy",
+   "content_text": "A project-wide policy on generative AI was proposed on November 19 and withdrawn by its author on November 23.",
+   "date_published": "2026-11-23T00:00:00Z",
+   "tags": [
+    "ai",
+    "money"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/gnome-ai-policy.json",
+    "angles": [
+     {
+      "id": "ai",
+      "angle": "Who sets the rules when volunteers, donors and corporate partners disagree."
+     },
+     {
+      "id": "money",
+      "angle": "The partner money behind a rules decision."
+     }
+    ],
+    "claims": [
+     {
+      "text": "The proposal allowed private AI use, barred AI-made code, documentation, issues and reviews, and let projects opt out.",
+      "who": "the proposal",
+      "status": "read",
+      "sources": [
+       "rfc"
+      ]
+     },
+     {
+      "text": "The author formally withdrew it at 14:36 UTC on November 23 and gave no reason in that post.",
+      "who": "the author",
+      "status": "read",
+      "sources": [
+       "rfc"
+      ]
+     },
+     {
+      "text": "At 12:23 UTC the same day Allan Day raised concerns, including corporate partnerships worth $736,000 in the last financial year; later that day Day put donations at about $230,000.",
+      "who": "Allan Day",
+      "status": "said",
+      "sources": [
+       "rfc"
+      ]
+     },
+     {
+      "text": "None of the 184 posts read names Omarchy or DHH.",
+      "who": "our count",
+      "status": "counted",
+      "sources": [
+       "rfc"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "rfc",
+      "url": "https://discourse.gnome.org/t/40151",
+      "publisher": "GNOME Discourse",
+      "kind": "primary",
+      "published": "2026-11-19",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "lunduke",
+      "url": "https://x.com/LundukeJournal/status/2124919681949593908",
+      "publisher": "Lunduke Journal on X",
+      "kind": "post",
+      "published": "2026-11-23",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "The closed merge request and any reason its author gives there",
+     "A supporter of the policy in their own words after the withdrawal",
+     "The three posts our reader did not return (184 of 187)",
+     "Whether “total ban”, the Lunduke Journal’s description, is fair given the opt-out"
+    ],
+    "would_change": "A statement from the author giving a reason, or a new proposal.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "aurora-credit-trail",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/aurora-credit-trail.json",
+   "title": "Asahi’s credit in four Aurora repositories",
+   "content_text": "Licence files in four Aurora repositories keep Asahi’s copyright, and the installer keeps Asahi’s commit history.",
+   "date_published": "2026-11-23T00:00:00Z",
+   "tags": [
+    "mac",
+    "ai"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/aurora-credit-trail.json",
+    "angles": [
+     {
+      "id": "mac",
+      "angle": "Where the credit can be seen."
+     },
+     {
+      "id": "ai",
+      "angle": "A credit question that can be checked by hand."
+     }
+    ],
+    "claims": [
+     {
+      "text": "m1n1, aurora-installer, asahi-audio and avd-fw carry an Asahi copyright line.",
+      "who": "our check",
+      "status": "counted",
+      "sources": [
+       "org"
+      ]
+     },
+     {
+      "text": "GitHub lists marcan with 332 contributions to aurora-installer, second to DjDeveloperr with 589.",
+      "who": "our check",
+      "status": "counted",
+      "sources": [
+       "installer"
+      ]
+     },
+     {
+      "text": "This does not test Asahi’s claim about unreleased code.",
+      "who": "our note",
+      "status": "open",
+      "sources": []
+     }
+    ],
+    "sources": [
+     {
+      "id": "org",
+      "url": "https://github.com/aurora-silicon",
+      "publisher": "Aurora Silicon on GitHub",
+      "kind": "code",
+      "published": null,
+      "read": "2026-11-23"
+     },
+     {
+      "id": "installer",
+      "url": "https://github.com/aurora-silicon/aurora-installer",
+      "publisher": "Aurora installer",
+      "kind": "code",
+      "published": null,
+      "read": "2026-11-23"
+     },
+     {
+      "id": "site",
+      "url": "https://aurorasilicon.org/",
+      "publisher": "Aurora Silicon",
+      "kind": "primary",
+      "published": null,
+      "read": null
+     }
+    ],
+    "to_find": [
+     "The same check on the kernel, u-boot and Mesa forks",
+     "Any file whose origin is disputed"
+    ],
+    "would_change": "One Aurora file shown to carry Asahi code without its notice.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "omarchy-china",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/omarchy-china.json",
+   "title": "The Chinese edition is very close",
+   "content_text": "DHH says the installer is translated, downloads are served locally, and it has its own default theme.",
+   "date_published": "2026-11-22T00:00:00Z",
+   "tags": [
+    "next",
+    "money",
+    "ai"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/omarchy-china.json",
+    "angles": [
+     {
+      "id": "next",
+      "angle": "A whole new audience."
+     },
+     {
+      "id": "money",
+      "angle": "What Alibaba Cloud’s $3 million pledge came with."
+     },
+     {
+      "id": "ai",
+      "angle": "A menu without the AI tools China can’t use."
+     }
+    ],
+    "claims": [
+     {
+      "text": "The edition is getting very close; no date is given.",
+      "who": "DHH",
+      "status": "said",
+      "sources": [
+       "dhh"
+      ]
+     },
+     {
+      "text": "Alibaba Cloud will help with local CDN, hosting, website and meetups.",
+      "who": "the foundation",
+      "status": "said",
+      "sources": [
+       "alibaba"
+      ]
+     },
+     {
+      "text": "A merged change hides AI tools, apps and services that can’t be used in China.",
+      "who": "the code",
+      "status": "read",
+      "sources": [
+       "change"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "dhh",
+      "url": "https://x.com/dhh/status/2124474336996422046",
+      "publisher": "DHH on X",
+      "kind": "primary",
+      "published": "2026-11-22",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "alibaba",
+      "url": "https://omarchy.org/news/2026/09/alibaba-cloud-joins-as-founding-corporate-patron/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-09-22",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "change",
+      "url": "https://github.com/omacom/omarchy/pull/19676",
+      "publisher": "Omarchy on GitHub",
+      "kind": "code",
+      "published": "2026-11-21",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "A date",
+     "Views from Chinese users"
+    ],
+    "would_change": "The edition shipping.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "local-ai",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/local-ai.json",
+   "title": "Local models get their own panel",
+   "content_text": "A merged change gives local models a panel built around memory, and Flowtunes makes music on the machine.",
+   "date_published": "2026-11-21T00:00:00Z",
+   "tags": [
+    "ai",
+    "next"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/local-ai.json",
+    "angles": [
+     {
+      "id": "ai",
+      "angle": "AI that runs on your own computer."
+     },
+     {
+      "id": "next",
+      "angle": "Headed for a coming release."
+     }
+    ],
+    "claims": [
+     {
+      "text": "Local models get their own bar icon and panel.",
+      "who": "the code",
+      "status": "read",
+      "sources": [
+       "panel"
+      ]
+     },
+     {
+      "text": "Flowtunes generates music with ACE-Step 1.5 Turbo.",
+      "who": "the project",
+      "status": "said",
+      "sources": [
+       "flow"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "panel",
+      "url": "https://github.com/omacom/omarchy/pull/19597",
+      "publisher": "Omarchy on GitHub",
+      "kind": "code",
+      "published": "2026-11-21",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "flow",
+      "url": "https://x.com/omarchy/status/2123857861851898283",
+      "publisher": "Omarchy on X",
+      "kind": "primary",
+      "published": "2026-11-20",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "Which release carries it",
+     "A run on a modest machine"
+    ],
+    "would_change": "The release notes.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "ipad-omarchy-a",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/ipad-omarchy-a.json",
+   "title": "A jailbroken iPad boots Omarchy A",
+   "content_text": "A hobbyist shows Omarchy A, a separate project, booting from iOS on a jailbroken iPad 5.",
+   "date_published": "2026-11-21T00:00:00Z",
+   "tags": [
+    "next",
+    "mac"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/ipad-omarchy-a.json",
+    "angles": [
+     {
+      "id": "next",
+      "angle": "How far people will carry it."
+     },
+     {
+      "id": "mac",
+      "angle": "Apple hardware beyond the Mac."
+     }
+    ],
+    "claims": [
+     {
+      "text": "An iPad 5 boots Omarchy A from iOS without a computer.",
+      "who": "Berkay Kosebay",
+      "status": "said",
+      "sources": [
+       "post"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "post",
+      "url": "https://x.com/berkaykosebay/status/2124247868966158496",
+      "publisher": "Berkay Kosebay on X",
+      "kind": "primary",
+      "published": "2026-11-21",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "repo",
+      "url": "https://github.com/OrchardLinux/omarchy-a",
+      "publisher": "Omarchy A",
+      "kind": "code",
+      "published": null,
+      "read": null
+     }
+    ],
+    "to_find": [
+     "Whether the two are the same code",
+     "What works after boot"
+    ],
+    "would_change": "A maintainer’s account.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "the-24-million",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/the-24-million.json",
+   "title": "What the $24 million is made of",
+   "content_text": "The announced pledges add up to $23.87 million, which agrees with the stated total of about $24 million. Cash received is not published on the pages read.",
+   "date_published": "2026-11-20T00:00:00Z",
+   "tags": [
+    "money",
+    "ai"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/the-24-million.json",
+    "angles": [
+     {
+      "id": "money",
+      "angle": "The sum, taken apart."
+     },
+     {
+      "id": "ai",
+      "angle": "About a sixth of it is AI tokens and compute."
+     }
+    ],
+    "claims": [
+     {
+      "text": "Twelve founders at $1M: $12M. DigitalOcean and Alibaba Cloud at $3M, and 1Password, 37signals, Four Technologies and Beelink at $300K: $7.2M. Tokens from Meta, SpaceXSI, OpenAI, Fireworks, OpenRouter, OrcaRouter and Greptile: $3.75M. Namespace compute: $0.3M. Five people at $100K, plus open patronage at a stated $120K: $0.62M.",
+      "who": "our sum",
+      "status": "counted",
+      "sources": [
+       "patrons",
+       "launch",
+       "tokens",
+       "half"
+      ]
+     },
+     {
+      "text": "A critic’s page calls the total a pile of promises: one-time gifts, multi-year commitments and donor-priced tokens.",
+      "who": "Omarchy: Exposed",
+      "status": "said",
+      "sources": [
+       "critic"
+      ]
+     },
+     {
+      "text": "Everything raised this year is to be spent over the following three.",
+      "who": "the foundation",
+      "status": "said",
+      "sources": [
+       "spend"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "patrons",
+      "url": "https://omarchy.org/patrons/",
+      "publisher": "Omarchy patrons page",
+      "kind": "primary",
+      "published": null,
+      "read": "2026-11-23"
+     },
+     {
+      "id": "launch",
+      "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+      "publisher": "Omarchy News, updated",
+      "kind": "primary",
+      "published": "2026-08-21",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "tokens",
+      "url": "https://omarchy.org/news/2026/09/omacom-foundation-secures-tokens-from-leading-labs/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-09-03",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "half",
+      "url": "https://omarchy.org/news/2026/09/omacom-foundation-raises-another-half-a-million-dollars/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": null,
+      "read": "2026-11-23"
+     },
+     {
+      "id": "spend",
+      "url": "https://omarchy.org/news/2026/09/omacom-foundation-accelerates-spending-goals/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": null,
+      "read": "2026-11-23"
+     },
+     {
+      "id": "critic",
+      "url": "https://omarchy.exposed/money",
+      "publisher": "Omarchy: Exposed",
+      "kind": "critic",
+      "published": "2026-10-13",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "register",
+      "url": "https://www.theregister.com/software/2026/09/17/omarchy-gains-185m-in-backing-fresh-converts-and-fierce-critics/5296780",
+      "publisher": "The Register",
+      "kind": "report",
+      "published": "2026-09-17",
+      "read": null
+     }
+    ],
+    "to_find": [
+     "Cash received, from the foundation",
+     "The Register’s article, read in full",
+     "The critic’s account that one token patron left the September 3 announcement, checked against a primary source"
+    ],
+    "would_change": "A financial statement, or a new or withdrawn patron.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "plugin-contest-2",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/plugin-contest-2.json",
+   "title": "Plugin Contest 2: one hundred finalists, $10,000",
+   "content_text": "Community voting on 100 finalists closes November 27, 2026 at 16:00 UTC.",
+   "date_published": "2026-11-20T00:00:00Z",
+   "tags": [
+    "next",
+    "money"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/plugin-contest-2.json",
+    "angles": [
+     {
+      "id": "next",
+      "angle": "The community’s own showcase."
+     },
+     {
+      "id": "money",
+      "angle": "Ten prizes sharing $10,000."
+     }
+    ],
+    "claims": [
+     {
+      "text": "The top ten share $10,000; first place takes $3,000.",
+      "who": "the contest page",
+      "status": "read",
+      "sources": [
+       "contest"
+      ]
+     },
+     {
+      "text": "One vote per person, closing November 27 at 16:00 UTC.",
+      "who": "the contest page",
+      "status": "read",
+      "sources": [
+       "contest"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "contest",
+      "url": "https://contest.omarchy.org/plugins-2026-autumn",
+      "publisher": "Omarchy Contest",
+      "kind": "primary",
+      "published": "2026-11-20",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "post",
+      "url": "https://x.com/omarchy/status/2123792860461863061",
+      "publisher": "Omarchy on X",
+      "kind": "primary",
+      "published": "2026-11-20",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "The winners, after voting closes"
+    ],
+    "would_change": "The results.",
+    "issue": null,
+    "videos": [
+     "https://github.com/parker-brown-family/omarchy-news/releases/download/film-plugin-contest-2/omarchy-promo-plugin-contest-curved-16x9.mp4"
+    ]
+   }
+  },
+  {
+   "id": "beelink-patron",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/beelink-patron.json",
+   "title": "Beelink joins, and an Omarchy Edition mini PC is planned",
+   "content_text": "Beelink pledges $100,000 a year for three years and is working with Omarchy on a mini PC that ships with it.",
+   "date_published": "2026-11-20T00:00:00Z",
+   "tags": [
+    "money",
+    "next"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/beelink-patron.json",
+    "angles": [
+     {
+      "id": "money",
+      "angle": "The newest name, taking the stated total to about $24 million."
+     },
+     {
+      "id": "next",
+      "angle": "Omarchy preinstalled on a machine you can buy."
+     }
+    ],
+    "claims": [
+     {
+      "text": "The pledge is $100,000 a year for three years.",
+      "who": "the foundation",
+      "status": "read",
+      "sources": [
+       "news"
+      ]
+     },
+     {
+      "text": "A special Omarchy Edition mini PC is in the works. Price, specs and date are not given.",
+      "who": "the foundation",
+      "status": "said",
+      "sources": [
+       "news"
+      ]
+     },
+     {
+      "text": "Total backing is approximately $24 million.",
+      "who": "the foundation",
+      "status": "said",
+      "sources": [
+       "news"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "news",
+      "url": "https://omarchy.org/news/2026/11/beelink-joins-as-a-distinguished-corporate-patron/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-11-20",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "post",
+      "url": "https://x.com/omarchy/status/2123760105204363418",
+      "publisher": "Omarchy on X",
+      "kind": "primary",
+      "published": "2026-11-20",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "Beelink’s own announcement",
+     "Price, specs and date"
+    ],
+    "would_change": "A product page, or a change of plan.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "aurora-sponsorship",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/aurora-sponsorship.json",
+   "title": "The Omacom Foundation sponsors Aurora Silicon",
+   "content_text": "Hardware and tokens for everyone on Aurora, and full-time pay for two maintainers for three months.",
+   "date_published": "2026-11-20T00:00:00Z",
+   "tags": [
+    "mac",
+    "money",
+    "ai"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/aurora-sponsorship.json",
+    "angles": [
+     {
+      "id": "mac",
+      "angle": "M4, M5 and M6 are being worked on."
+     },
+     {
+      "id": "money",
+      "angle": "Foundation money going to an independent project."
+     },
+     {
+      "id": "ai",
+      "angle": "A sponsor paying for AI tokens on work Asahi does without them."
+     }
+    ],
+    "claims": [
+     {
+      "text": "Dj and Ryan Murray are funded full time for three months.",
+      "who": "the foundation",
+      "status": "read",
+      "sources": [
+       "news"
+      ]
+     },
+     {
+      "text": "Aurora’s bootloader, kernel and installer began as forks of Asahi’s work, and the post thanks Asahi.",
+      "who": "the foundation",
+      "status": "read",
+      "sources": [
+       "news"
+      ]
+     },
+     {
+      "text": "DHH says some teams may reject AI while others accelerate the same code, under MIT or GPL.",
+      "who": "DHH",
+      "status": "said",
+      "sources": [
+       "dhh"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "news",
+      "url": "https://omarchy.org/news/2026/11/omacom-foundation-to-sponsor-aurora-silicon/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-11-20",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "dhh",
+      "url": "https://x.com/dhh/status/2123874081145561256",
+      "publisher": "DHH on X",
+      "kind": "primary",
+      "published": "2026-11-20",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "omarchy",
+      "url": "https://x.com/omarchy/status/2123872668042834312",
+      "publisher": "Omarchy on X",
+      "kind": "primary",
+      "published": "2026-11-20",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "Asahi’s response, if there is one",
+     "The sponsorship amount, which the post does not give"
+    ],
+    "would_change": "A statement from Asahi or Aurora.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "games-and-icons",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/games-and-icons.json",
+   "title": "Game Vibes and matching icon sets",
+   "content_text": "Preinstalled games move to the web, with a launcher and a way to add your own, and icons become themeable sets.",
+   "date_published": "2026-11-19T00:00:00Z",
+   "tags": [
+    "next",
+    "ai"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/games-and-icons.json",
+    "angles": [
+     {
+      "id": "next",
+      "angle": "The play side of the desktop."
+     },
+     {
+      "id": "ai",
+      "angle": "A built-in skill for making a game."
+     }
+    ],
+    "claims": [
+     {
+      "text": "Games are now built with HTML and three.js, with a Game Vibes launcher.",
+      "who": "the project",
+      "status": "said",
+      "sources": [
+       "games"
+      ]
+     },
+     {
+      "text": "A game can be installed from a git address.",
+      "who": "the code",
+      "status": "read",
+      "sources": [
+       "install"
+      ]
+     },
+     {
+      "text": "Icon sets are separate from the theme.",
+      "who": "the code",
+      "status": "read",
+      "sources": [
+       "icons"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "games",
+      "url": "https://x.com/omarchy/status/2123360675460243596",
+      "publisher": "Omarchy on X",
+      "kind": "primary",
+      "published": "2026-11-19",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "install",
+      "url": "https://github.com/omacom/omarchy/pull/19422",
+      "publisher": "Omarchy on GitHub",
+      "kind": "code",
+      "published": "2026-11-19",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "icons",
+      "url": "https://github.com/omacom/omarchy/pull/18879",
+      "publisher": "Omarchy on GitHub",
+      "kind": "code",
+      "published": "2026-11-15",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "chess",
+      "url": "https://x.com/omarchy/status/2122648577134727601",
+      "publisher": "Omarchy on X",
+      "kind": "primary",
+      "published": "2026-11-17",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "Which release carries each",
+     "Critics of preinstalled games, in their own words"
+    ],
+    "would_change": "The release notes.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "apple-computer-use-steps",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/apple-computer-use-steps.json",
+   "title": "Apple adds steps before another company’s agent can control a Mac",
+   "content_text": "Mark Gurman reports that enabling ChatGPT’s computer control takes 14 steps in macOS 27.3, up from four.",
+   "date_published": "2026-11-19T00:00:00Z",
+   "tags": [
+    "ai",
+    "mac"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/apple-computer-use-steps.json",
+    "angles": [
+     {
+      "id": "ai",
+      "angle": "An operating system’s owner deciding whose agent may drive it."
+     },
+     {
+      "id": "mac",
+      "angle": "One reason people give for putting another system on a Mac."
+     }
+    ],
+    "claims": [
+     {
+      "text": "The count went from four steps to 14.",
+      "who": "Mark Gurman",
+      "status": "said",
+      "sources": [
+       "gurman"
+      ]
+     },
+     {
+      "text": "Apple cites security; some users see anti-competitiveness.",
+      "who": "Mark Gurman",
+      "status": "said",
+      "sources": [
+       "gurman"
+      ]
+     },
+     {
+      "text": "DHH compares it to Apple protecting its 30% cut.",
+      "who": "DHH",
+      "status": "said",
+      "sources": [
+       "dhh"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "gurman",
+      "url": "https://x.com/markgurman/status/2123535506168578127",
+      "publisher": "Mark Gurman on X",
+      "kind": "report",
+      "published": "2026-11-19",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "dhh",
+      "url": "https://x.com/dhh/status/2124036959223808320",
+      "publisher": "DHH on X",
+      "kind": "post",
+      "published": "2026-11-21",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "Apple’s own words",
+     "The 14 steps, counted on a Mac running 27.3",
+     "Whether Apple’s own agent needs the same steps"
+    ],
+    "would_change": "A count on a real machine that differs, or an Apple change in a later build.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "install-speed",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/install-speed.json",
+   "title": "Six-second installs, and 18 seconds on NVIDIA’s N1X",
+   "content_text": "DHH posts a six-second install record on a Ryzen 7 9800X3D and 18 seconds on an N1X.",
+   "date_published": "2026-11-16T00:00:00Z",
+   "tags": [
+    "next"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/install-speed.json",
+    "angles": [
+     {
+      "id": "next",
+      "angle": "Speed as a headline."
+     }
+    ],
+    "claims": [
+     {
+      "text": "Six seconds on a Ryzen 7 9800X3D with 32 GB of memory.",
+      "who": "DHH",
+      "status": "said",
+      "sources": [
+       "six"
+      ]
+     },
+     {
+      "text": "Eighteen seconds on the N1X.",
+      "who": "DHH",
+      "status": "said",
+      "sources": [
+       "n1x"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "six",
+      "url": "https://x.com/dhh/status/2122286045773382096",
+      "publisher": "DHH on X",
+      "kind": "primary",
+      "published": "2026-11-16",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "n1x",
+      "url": "https://x.com/dhh/status/2121986141280739691",
+      "publisher": "DHH on X",
+      "kind": "primary",
+      "published": "2026-11-15",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "What the clock covers: start and stop",
+     "A measurement by someone else"
+    ],
+    "would_change": "An independent timing.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "v4-migration-complaint",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/v4-migration-complaint.json",
+   "title": "A user says the v3 to v4 upgrade deleted their network setup",
+   "content_text": "A widely seen complaint says SSH and Tailscale were gone after the upgrade and that the migration never finished.",
+   "date_published": "2026-11-11T00:00:00Z",
+   "tags": [
+    "ai",
+    "next"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/v4-migration-complaint.json",
+    "angles": [
+     {
+      "id": "ai",
+      "angle": "The cost side of fast, agent-built software."
+     },
+     {
+      "id": "next",
+      "angle": "What an upgrade has to get right before 4.6."
+     }
+    ],
+    "claims": [
+     {
+      "text": "The upgrade removed SSH and Tailscale without warning and did not finish.",
+      "who": "tomhacks",
+      "status": "said",
+      "sources": [
+       "post"
+      ]
+     },
+     {
+      "text": "The post had 2,438 likes and about 309,000 views when read.",
+      "who": "our reading",
+      "status": "counted",
+      "sources": [
+       "post"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "post",
+      "url": "https://x.com/tomhacks/status/2120456892665450846",
+      "publisher": "tomhacks on X",
+      "kind": "primary",
+      "published": "2026-11-11",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "hn",
+      "url": "https://news.ycombinator.com/item?id=50469918",
+      "publisher": "Hacker News",
+      "kind": "report",
+      "published": "2026-11-12",
+      "read": null
+     }
+    ],
+    "to_find": [
+     "A reply from Omarchy’s maintainers",
+     "A matching issue or fix",
+     "Whether agent-written code caused it: the post does not show that"
+    ],
+    "would_change": "A reproduction, a fix, or the user’s follow-up.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "asahi-gpl",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/asahi-gpl.json",
+   "title": "Asahi begins moving to the GPL and says its code was taken",
+   "content_text": "Asahi’s progress report says in-development code was lifted from personal forks, and some rewritten with AI to hide its origin. It names nobody.",
+   "date_published": "2026-11-07T00:00:00Z",
+   "tags": [
+    "mac",
+    "ai"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/asahi-gpl.json",
+    "angles": [
+     {
+      "id": "mac",
+      "angle": "The foundation everyone builds on changes its terms."
+     },
+     {
+      "id": "ai",
+      "angle": "A project that broadly forbids AI-made contributions."
+     }
+    ],
+    "claims": [
+     {
+      "text": "Asahi is moving all repositories to GPL v2 or later.",
+      "who": "Asahi",
+      "status": "read",
+      "sources": [
+       "report"
+      ]
+     },
+     {
+      "text": "In-development feature code was lifted from personal forks and published without attribution or rewritten with AI assistance.",
+      "who": "Asahi",
+      "status": "said",
+      "sources": [
+       "report"
+      ]
+     },
+     {
+      "text": "Asahi broadly forbids generative AI for material contributions.",
+      "who": "Asahi",
+      "status": "read",
+      "sources": [
+       "policy"
+      ]
+     },
+     {
+      "text": "It’s FOSS raises Aurora and Gravity Linux as context and notes the report names neither.",
+      "who": "It’s FOSS",
+      "status": "read",
+      "sources": [
+       "itsfoss"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "report",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "publisher": "Asahi Linux",
+      "kind": "primary",
+      "published": "2026-11-07",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "policy",
+      "url": "https://asahilinux.org/llm-policy/",
+      "publisher": "Asahi Linux",
+      "kind": "primary",
+      "published": null,
+      "read": "2026-11-23"
+     },
+     {
+      "id": "itsfoss",
+      "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+      "publisher": "It’s FOSS",
+      "kind": "report",
+      "published": "2026-11-08",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "hn",
+      "url": "https://news.ycombinator.com/item?id=50401867",
+      "publisher": "Hacker News",
+      "kind": "report",
+      "published": "2026-11-07",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "Which code, from the people who say it was taken",
+     "A reply from Aurora’s maintainers",
+     "How earlier contributions are relicensed"
+    ],
+    "would_change": "Asahi naming a commit or a project, or a reply that shows the origin of one.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "bluechip-snapdragon",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/bluechip-snapdragon.json",
+   "title": "Omarchy runs on Anduril’s BlueChip",
+   "content_text": "The project says its Snapdragon work has Omarchy running on the BlueChip.",
+   "date_published": "2026-11-06T00:00:00Z",
+   "tags": [
+    "next"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/bluechip-snapdragon.json",
+    "angles": [
+     {
+      "id": "next",
+      "angle": "Snapdragon support shown on a new machine."
+     }
+    ],
+    "claims": [
+     {
+      "text": "Omarchy is up and running on the BlueChip.",
+      "who": "the project",
+      "status": "said",
+      "sources": [
+       "post"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "post",
+      "url": "https://x.com/omarchy/status/2118764469270802447",
+      "publisher": "Omarchy on X",
+      "kind": "primary",
+      "published": "2026-11-06",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "Anduril’s own post",
+     "What works and what does not"
+    ],
+    "would_change": "A support page or a hands-on report.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "core-marcelo-birk",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/core-marcelo-birk.json",
+   "title": "Marcelo Alcantara and Birk Skyum join Omarchy Core",
+   "content_text": "The coordinators of the Mac and Snapdragon teams join the group that steers Omarchy.",
+   "date_published": "2026-11-05T00:00:00Z",
+   "tags": [
+    "mac",
+    "next"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/core-marcelo-birk.json",
+    "angles": [
+     {
+      "id": "mac",
+      "angle": "The sixteen people behind the Mac installer."
+     },
+     {
+      "id": "next",
+      "angle": "Snapdragon gets a seat."
+     }
+    ],
+    "claims": [
+     {
+      "text": "Sixteen people worked on Omarchy M.",
+      "who": "the foundation",
+      "status": "read",
+      "sources": [
+       "news"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "news",
+      "url": "https://omarchy.org/news/2026/11/marcelo-alcantara-and-birk-skyum-join-omarchy-core/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-11-05",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "Their own posts"
+    ],
+    "would_change": "A change to the Core team.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "omarchy-4-5",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/omarchy-4-5.json",
+   "title": "Omarchy 4.5: floating windows, 50 languages, and Macs",
+   "content_text": "Over 740 pull requests from more than 180 contributors in twelve weeks, with a native installer for M1, M2, M3 and Neo MacBooks.",
+   "date_published": "2026-11-04T00:00:00Z",
+   "tags": [
+    "next",
+    "mac"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/omarchy-4-5.json",
+    "angles": [
+     {
+      "id": "next",
+      "angle": "The release everything after it builds on."
+     },
+     {
+      "id": "mac",
+      "angle": "The day the Mac installer shipped."
+     }
+    ],
+    "claims": [
+     {
+      "text": "4.5 installs natively on M1, M2, M3 and Neo MacBooks.",
+      "who": "the project",
+      "status": "read",
+      "sources": [
+       "news"
+      ]
+     },
+     {
+      "text": "Over 740 pull requests were merged from more than 180 contributors.",
+      "who": "the project",
+      "status": "said",
+      "sources": [
+       "news"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "news",
+      "url": "https://omarchy.org/news/2026/11/omarchy-4-5/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-11-04",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "release",
+      "url": "https://github.com/omacom/omarchy/releases/tag/v4.5.0",
+      "publisher": "GitHub release",
+      "kind": "primary",
+      "published": "2026-11-05",
+      "read": null
+     }
+    ],
+    "to_find": [
+     "An independent review",
+     "Known faults after release"
+    ],
+    "would_change": "The 4.6 release.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "fourth-hire-hancore",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/fourth-hire-hancore.json",
+   "title": "HANCORE becomes the foundation’s fourth full-time hire",
+   "content_text": "HANCORE moves from artist in residence to Head of Design and Community.",
+   "date_published": "2026-10-27T00:00:00Z",
+   "tags": [
+    "money"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/fourth-hire-hancore.json",
+    "angles": [
+     {
+      "id": "money",
+      "angle": "What the money buys first: people."
+     }
+    ],
+    "claims": [
+     {
+      "text": "HANCORE is the fourth staff member, beside Krzysztof Wilczyński, outfoxxed and Emir Beganović.",
+      "who": "the foundation",
+      "status": "read",
+      "sources": [
+       "news",
+       "staff"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "news",
+      "url": "https://omarchy.org/news/2026/10/omacom-foundation-hires-hancore/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-10-27",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "staff",
+      "url": "https://omarchy.org/staff/",
+      "publisher": "Omarchy staff page",
+      "kind": "primary",
+      "published": null,
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "HANCORE’s own post"
+    ],
+    "would_change": "A change to the staff page.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "greptile-review-tokens",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/greptile-review-tokens.json",
+   "title": "Greptile gives $150,000 in review tokens",
+   "content_text": "Greptile joins as a Distinguished Corporate Patron, giving its pull request review service.",
+   "date_published": "2026-10-15T00:00:00Z",
+   "tags": [
+    "money",
+    "ai"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/greptile-review-tokens.json",
+    "angles": [
+     {
+      "id": "money",
+      "angle": "One of four names since October."
+     },
+     {
+      "id": "ai",
+      "angle": "Agents reviewing what agents wrote."
+     }
+    ],
+    "claims": [
+     {
+      "text": "The pledge is $150,000 in tokens.",
+      "who": "the foundation",
+      "status": "read",
+      "sources": [
+       "news"
+      ]
+     },
+     {
+      "text": "Across the 60 most recently merged pull requests it reviewed, it flagged 39 problems it rated serious.",
+      "who": "the foundation",
+      "status": "said",
+      "sources": [
+       "news"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "news",
+      "url": "https://omarchy.org/news/2026/10/greptile-joins-as-a-distinguished-corporate-patron/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-10-15",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "How many of the 39 were confirmed as real"
+    ],
+    "would_change": "An independent check of the flagged problems.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "namespace-arm-compute",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/namespace-arm-compute.json",
+   "title": "Namespace gives ARM compute",
+   "content_text": "Namespace pledges $100,000 a year in compute for three years, for ARM builds and testing.",
+   "date_published": "2026-10-09T00:00:00Z",
+   "tags": [
+    "money",
+    "next",
+    "mac"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/namespace-arm-compute.json",
+    "angles": [
+     {
+      "id": "money",
+      "angle": "A pledge in machines rather than cash."
+     },
+     {
+      "id": "next",
+      "angle": "Why new hardware can be tested before release."
+     },
+     {
+      "id": "mac",
+      "angle": "ARM testing behind the Mac work."
+     }
+    ],
+    "claims": [
+     {
+      "text": "The pledge is $100,000 a year in compute for three years.",
+      "who": "the foundation",
+      "status": "read",
+      "sources": [
+       "news"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "news",
+      "url": "https://omarchy.org/news/2026/10/namespace-joins-as-a-distinguished-corporate-patron/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-10-09",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "Namespace’s own announcement",
+     "A test run on their machines"
+    ],
+    "would_change": "A change to the pledge.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "spacexsi-grok-tokens",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/spacexsi-grok-tokens.json",
+   "title": "SpaceXSI pledges $1.5 million in Grok tokens",
+   "content_text": "Announced as SpaceXAI and now listed as SpaceXSI, a Founding Corporate Patron giving tokens.",
+   "date_published": "2026-10-08T00:00:00Z",
+   "tags": [
+    "money",
+    "ai"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/spacexsi-grok-tokens.json",
+    "angles": [
+     {
+      "id": "money",
+      "angle": "The largest new name since October."
+     },
+     {
+      "id": "ai",
+      "angle": "Tokens that pay for agents reviewing the project."
+     }
+    ],
+    "claims": [
+     {
+      "text": "The pledge is $1.5 million in Grok tokens.",
+      "who": "the foundation",
+      "status": "read",
+      "sources": [
+       "news"
+      ]
+     },
+     {
+      "text": "The tokens help power Omabot, which reviews pull requests.",
+      "who": "the foundation",
+      "status": "said",
+      "sources": [
+       "news"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "news",
+      "url": "https://omarchy.org/news/2026/10/spacexai-joins-as-founding-corporate-patron/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-10-08",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "patrons",
+      "url": "https://omarchy.org/patrons/",
+      "publisher": "Omarchy patrons page",
+      "kind": "primary",
+      "published": null,
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "SpaceXSI’s own announcement",
+     "When and why the name changed on the page"
+    ],
+    "would_change": "A change to the pledge or the listing.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "bug-bounty",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/bug-bounty.json",
+   "title": "A $100,000 bug bounty opens on HackerOne",
+   "content_text": "The foundation funds $100,000 in bounties, and Mehmet İnce joins Core as head of security.",
+   "date_published": "2026-10-02T00:00:00Z",
+   "tags": [
+    "money",
+    "ai"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/bug-bounty.json",
+    "angles": [
+     {
+      "id": "money",
+      "angle": "Money spent on being attacked on purpose."
+     },
+     {
+      "id": "ai",
+      "angle": "A check on fast-moving code."
+     }
+    ],
+    "claims": [
+     {
+      "text": "The program is funded with $100,000.",
+      "who": "the foundation",
+      "status": "read",
+      "sources": [
+       "news"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "news",
+      "url": "https://omarchy.org/news/2026/10/omarchy-launches-bug-bounty-program-on-hackerone/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-10-02",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "The public HackerOne page",
+     "Reports paid so far"
+    ],
+    "would_change": "Published results.",
+    "issue": null,
+    "videos": []
+   }
+  },
+  {
+   "id": "agents-build-omarchy",
+   "url": "https://github.com/parker-brown-family/omarchy-news/blob/main/stories/agents-build-omarchy.json",
+   "title": "Omarchy says its version 4 was built almost exclusively by agents",
+   "content_text": "The foundation’s token announcement says Quattro was almost exclusively built by agents.",
+   "date_published": "2026-09-03T00:00:00Z",
+   "tags": [
+    "ai",
+    "money"
+   ],
+   "_omarchy_news": {
+    "story": "https://raw.githubusercontent.com/parker-brown-family/omarchy-news/main/stories/agents-build-omarchy.json",
+    "angles": [
+     {
+      "id": "ai",
+      "angle": "An operating system open about how it is written."
+     },
+     {
+      "id": "money",
+      "angle": "Why tokens count as funding."
+     }
+    ],
+    "claims": [
+     {
+      "text": "Quattro has almost exclusively been built by agents.",
+      "who": "DHH",
+      "status": "said",
+      "sources": [
+       "tokens"
+      ]
+     }
+    ],
+    "sources": [
+     {
+      "id": "tokens",
+      "url": "https://omarchy.org/news/2026/09/omacom-foundation-secures-tokens-from-leading-labs/",
+      "publisher": "Omarchy News",
+      "kind": "primary",
+      "published": "2026-09-03",
+      "read": "2026-11-23"
+     },
+     {
+      "id": "a16z",
+      "url": "https://x.com/dhh/status/2123866361378316705",
+      "publisher": "DHH on X, linking the a16z interview",
+      "kind": "primary",
+      "published": "2026-11-20",
+      "read": "2026-11-23"
+     }
+    ],
+    "to_find": [
+     "The a16z interview itself, watched, with times for the statements used",
+     "Independent review of code quality, in either direction"
+    ],
+    "would_change": "A maintainer’s account that differs.",
+    "issue": null,
+    "videos": []
+   }
+  }
+ ]
+}
