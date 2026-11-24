@@ -21,5 +21,32 @@
    "Music: Hero Hype 1, parkerbrowndev",
    "Film: Cinema Delight"
   ]
+ },
+ {
+  "id": "who-gets-to-use-ai",
+  "title": "Omarchy News · Who Gets to Use AI?",
+  "sealed": "2026-11-23",
+  "seconds": 133,
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "file": "omarchy-stories-omarchy-news-ai-curved-16x9.mp4",
+  "bytes": 140956069,
+  "sha256": "bc79e31ce133f2725462ca40b061985f3e21e83c52274d7dbe63faaad469005d",
+  "url": "https://github.com/parker-brown-family/omarchy-news/releases/download/film-who-gets-to-use-ai/omarchy-stories-omarchy-news-ai-curved-16x9.mp4",
+  "release": "https://github.com/parker-brown-family/omarchy-news/releases/tag/film-who-gets-to-use-ai",
+  "poster": "posters/who-gets-to-use-ai.jpg",
+  "stories": [
+   "gnome-ai-policy",
+   "apple-computer-use-steps",
+   "neon-boot-time",
+   "v4-migration-complaint"
+  ],
+  "credits": [
+   "Theme Ethereal: Omarchy",
+   "Music: parkerbrowndev",
+   "Narration: Kokoro-82M, af_heart",
+   "Film: Cinema Delight"
+  ]
  }
 ]

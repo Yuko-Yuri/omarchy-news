@@ -19,9 +19,13 @@ Each claim carries one of four marks: `read` (we read the document), `counted` (
 
 **[Omarchy Combattttt · the plugin contest](https://github.com/parker-brown-family/omarchy-news/releases/tag/film-plugin-contest-2)** · 1:48 · sealed 2026-11-23 · Themes Demon and Shades of Jade: HANCORE; Music: Hero Hype 1, parkerbrowndev; Film: Cinema Delight
 
+[![Omarchy News · Who Gets to Use AI?](posters/who-gets-to-use-ai.jpg)](https://github.com/parker-brown-family/omarchy-news/releases/tag/film-who-gets-to-use-ai)
+
+**[Omarchy News · Who Gets to Use AI?](https://github.com/parker-brown-family/omarchy-news/releases/tag/film-who-gets-to-use-ai)** · 2:13 · sealed 2026-11-23 · Theme Ethereal: Omarchy; Music: parkerbrowndev; Narration: Kokoro-82M, af_heart; Film: Cinema Delight
+
 ## Who Gets to Use AI?
 
-Who decides how AI may be used in an operating system? Film: planned, first.
+Who decides how AI may be used in an operating system? Film: sealed 2026-11-23.
 
 - **[DHH says Gemini 4 Neon halved Omarchy’s boot time](stories/neon-boot-time.json)** (2026-11-23). The strongest current claim for building an OS with agents. · [open questions](https://github.com/parker-brown-family/omarchy-news/issues/24)
 - **[GNOME withdraws a proposed AI policy](stories/gnome-ai-policy.json)** (2026-11-23). Who sets the rules when volunteers, donors and corporate partners disagree. · [open questions](https://github.com/parker-brown-family/omarchy-news/issues/23)
