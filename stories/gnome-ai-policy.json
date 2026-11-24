@@ -39,6 +39,22 @@
    ]
   },
   {
+   "text": "At 14:33 UTC, three minutes before the withdrawal, Allan Day said it was not possible to say the policy would definitely drive partners away, and added: “But it’s certainly not going to help us keep them.”",
+   "who": "Allan Day",
+   "status": "read",
+   "sources": [
+    "rfc"
+   ]
+  },
+  {
+   "text": "Allan Day is listed by the GNOME Foundation as Interim Executive Director.",
+   "who": "the GNOME Foundation",
+   "status": "read",
+   "sources": [
+    "team"
+   ]
+  },
+  {
    "text": "None of the 184 posts read names Omarchy or DHH.",
    "who": "our count",
    "status": "counted",
@@ -62,6 +78,14 @@
    "publisher": "Lunduke Journal on X",
    "kind": "post",
    "published": "2026-11-23",
+   "read": "2026-11-23"
+  },
+  {
+   "id": "team",
+   "url": "https://foundation.gnome.org/team/",
+   "publisher": "GNOME Foundation",
+   "kind": "primary",
+   "published": null,
    "read": "2026-11-23"
   }
  ],
